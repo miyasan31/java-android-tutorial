@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88586738372",
+    "project_id": "android-turorial",
+    "storage_bucket": "android-turorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88586738372:android:58f486533e8365d52cc791",
+        "android_client_info": {
+          "package_name": "com.android.tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88586738372-kt7tvcg8hgl759nt8iiuuhiducv67eqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu_4AAR7NfK-zLR1zsELhccP_2aRu7vyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88586738372-kt7tvcg8hgl759nt8iiuuhiducv67eqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

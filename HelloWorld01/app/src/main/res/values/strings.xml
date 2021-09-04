@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">ここはヘッダーですよ</string>
+    <string name="hello_world1">Hello world!!!</string>
+    <string name="hello_world2">ようこそ　Androidの世界へ</string>
+
+</resources>

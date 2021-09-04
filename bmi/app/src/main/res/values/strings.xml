@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyBMI</string>
+    <string name="action_settings">MyBMI</string>
+    <string name="text1">身長を入力してください(cm)</string>
+    <string name="text2">体重を入力してください(kg)</string>
+    <string name="text3">BMI値を計算</string>
+    <string name="result_judge_0">やせています</string>
+    <string name="result_judge_1">標準です</string>
+    <string name="result_judge_2">太っています</string>
+</resources>
+

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyBMI</string>
+    <string name="sub_name">Result</string>
+    <string name="action_settings">MyBMI</string>
+    <string name="text1">身長を入力してください(cm)</string>
+    <string name="text2">体重を入力してください(kg)</string>
+    <string name="text3">BMI値を計算</string>
+    <string name="text4">年齢を入力してください</string>
+    <string name="result_judge_0">やせています</string>
+    <string name="result_judge_1">標準です</string>
+    <string name="result_judge_2">太っています</string>
+    <string name="result_msg">あなたの指標はBMI指標。BMI値は...</string>
+    <string name="result_msg2">あなたの指標はKaup指標。Kaup値は...</string>
+    <string name="result_msg3">あなたの指標はRohere指標。Rohere値は...</string>
+    <string name="good_msg">標準体重まで</string>
+    <string name="btn_reset">リセット</string>
+</resources>
